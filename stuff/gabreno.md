@@ -7,6 +7,11 @@ title : Автоматическая классификация обращени
     @media print {
         table {
             page-break-inside: avoid;
+            page-break-before: avoid;
+        }
+
+        p img {
+            page-break-before: avoid;
         }
     }
 </style>
