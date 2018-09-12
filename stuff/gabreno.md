@@ -3,6 +3,14 @@ layout: minimal
 title : Автоматическая классификация обращений
 ---
 
+<style>
+    @media print {
+        table {
+            page-break-inside: avoid;
+        }
+    }
+</style>
+
 
 # Автоматическая классификация обращений
 
